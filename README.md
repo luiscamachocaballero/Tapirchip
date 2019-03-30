@@ -6,7 +6,7 @@ PROJECT TAPIRCHIP
 </p>
 
 <p align="center">
-[![Watch the video!](https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)](https://youtu.be/K2XoNLCk-Mk)
+[![Watch the video!] (https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)] (https://youtu.be/K2XoNLCk-Mk)
 </p>
 
 INTRODUCTION
