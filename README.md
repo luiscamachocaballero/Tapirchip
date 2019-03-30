@@ -6,7 +6,7 @@ PROJECT TAPIRCHIP
 </p>
 
 <p align="center">
-[![Watch the video!](https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)](https://youtu.be/K2XoNLCk-Mk)
+[![Watch the video!] [(https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)] (https://youtu.be/K2XoNLCk-Mk)
 </p>
 
 INTRODUCTION
@@ -27,14 +27,21 @@ If a transmission system is implemented with the trap camera, the biologists cou
 In commercial trap cameras the transmission is available through mobile services, but in the jungle the lack of a communication system makes it difficult to use this device. 
 Therefore our purpose is to develop a trap camera that meets the biologist’s requirements and that has a communication system to transfer data to a central base.
 
-The project **TAPIRNET** was an effort to implement a trap camera with a 900 MHz wireless radio. 
-The results showed that the transmission in the jungle was very difficult due to attenuation from the trees. The trap camera that we propose will have the following advantages:
+The project **TAPIRNET** was an effort to implement a trap camera with a 900 MHz wireless radio. The results showed that the transmission in the jungle was very difficult due to attenuation from the trees. 
+So we started a new project called **TAPIRCHIP** with the goal to develop a improved camera trap camera with the following advantages:
 -	The trap camera will have autonomy to operate for 3 months. This time is fair enough to determine the animal presence.
--	The Camera minimum resolution must be 2 Megapixels; this is desired by biologist to identify correctly animal species.
--	The trap camera will have a wireless radio that can transmit the images to a center node. This will allow biologists to gain access to the pictures without walking and also monitor the camera status.
+-	The Camera minimum resolution had to be 5 Megapixels; this is desired by biologist to identify correctly animal species.
+-	The trap camera will have a 2.4 GHz wireless radio that can transmit the images to a center node. This will allow biologists to gain access to the pictures without walking and also monitor the camera status. 
 -	The camera trap will have built-in sensors to capture information from the environment, such as: Temperature, Humidity and Sound.
--	The technology will be developed in our country so technical support will be reachable.
 
+The technology was developed in Lima, so technical support was close reachable to villagers living in and practitioners focused on Amazon rainforest.
+
+Now, **TAPIRCHIP** is the trademark for an initiative to develop the simplest but still useful camera trap to map 20 millions Km2 
+of tropical forest all located at Global South. We expect to unleash the hardware blueprints and software code in order to organized people in the world theirselves can build the cameras and installed them in their neighbour forests.
+
+We kindly hear any proposal of sustainability models, for example, sponsored by a big donor, develop and install the cameras by our side and publish the images in the web for a fee.
+
+**TAPIRCHIP** is an original idea of Luis Camacho, the project was carried out between January 2014 and December 2017 in PUCP (Catholic University of Peru) under sponsorship of Peruvian Government through National Innovation Program for Competitiveness and Productivity - INNOVATE PERU - Grants N° 152-FINCyT-IA-2013 and N° 123-PNICP-PIAP-2015.
 
 SYSTEM SPECS
 ------------
