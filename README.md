@@ -1,11 +1,14 @@
 PROJECT TAPIRCHIP 
 ================================================================
-Click the pictures to see our presentation videos:
-[![TAPIRCHIP Presentation Video](https://macondomomments.files.wordpress.com/2014/09/dsc00289.jpg)](https://www.youtube.com/watch?v=K2XoNLCk-Mk)
+
 <p align="center">
   <img border ="1" src="docs/Logos/Tapir.bmp" width="250">
 </p>
-[![Alt text for your video](https://img.youtube.com/vi/g-pvuCJCxQ8/0.jpg)](http://https://www.youtube.com/watch?v=g-pvuCJCxQ8)
+
+<p align="center">
+[![Watch the video!](https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)](https://youtu.be/K2XoNLCk-Mk)
+</p>
+
 INTRODUCTION
 ------------
 The Amazon rainforest is considered to be one of the last natural reserves for animals, plants and trees; untouched by humans. It is also considered to be a frontline in the fight against global warning. 
