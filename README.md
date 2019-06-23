@@ -13,7 +13,7 @@ PROJECT TAPIRCHIP
 </p>
 
 
-esta es una prueba para LFS261
+
 
 INTRODUCTION
 ------------
