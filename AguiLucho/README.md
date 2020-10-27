@@ -20,6 +20,6 @@ DroneKit, una API de código abierto escrita en Python, permite desarrollar apps
 5.	Controlar cámaras y obtener información de telemetría. 
 6.	Generación de bitácoras de datos para posterior análisis. 
   
-Figura 21 Diagrama de flujo del programa AguiLucho 
+##Figura 21 Diagrama de flujo del programa AguiLucho 
 DroneKit se puede instalar en sistemas operativos Linux, Windows y Mac OS X y funciona tanto en desktops y laptops como en smartphones. También se puede acceder a la API en la nube, donde se disponen del servicio DroneShare (mapeo de vuelos en tiempo real y compartición de datos de misiones y rutas con drones).  
 Una aplicación desarrollada con DroneKit en Python suele ejecutarse en una computadora abordo corriendo S.O. Linux, pero durante las pruebas de desarrollo lo más lógico y habitual es probar los prototipos en una computadora estándar conectada a un piloto automático. 
