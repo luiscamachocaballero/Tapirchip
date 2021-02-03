@@ -1,5 +1,9 @@
 PROJECT TAPIRCHIP 
 ================================================================
+[![TAPIRCHIP Presentation Video](https://macondomomments.files.wordpress.com/2014/09/dsc00289.jpg)](https://www.youtube.com/watch?v=K2XoNLCk-Mk)
+<p align="center">
+  <img border ="1" src="docs/Logos/Tapir.bmp" width="250">
+</p>
 
 <p align="center">
   <img border ="1" src="docs/Logos/Tapir.bmp" width="250">
