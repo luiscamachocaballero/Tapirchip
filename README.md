@@ -8,8 +8,7 @@ PROJECT TAPIRCHIP
 <p align="center">
 
 
-[[Watch the video!](https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)](https://youtu.be/K2XoNLCk-Mk)
->>>>>>> 2566a802ba2df93a2157bbe6df32cbea7a70422f
+[[Watch the video!] (https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)] (https://youtu.be/K2XoNLCk-Mk)
 </p>
 
 
