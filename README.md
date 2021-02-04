@@ -1,22 +1,6 @@
 PROJECT TAPIRCHIP 
 ================================================================
 [![TAPIRCHIP Presentation Video](https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)](https://www.youtube.com/watch?v=g-pvuCJCxQ8&t=17s)
-<p align="center">
-  <img border ="1" src="docs/Logos/Tapir.bmp" width="250">
-</p>
-
-<p align="center">
-  <img border ="1" src="docs/Logos/Tapir.bmp" width="250">
-</p>
-
-<p align="center">
-
-
-[[Watch the video!] ()] (https://youtu.be/K2XoNLCk-Mk)
-</p>
-
-
-
 
 INTRODUCTION
 ------------
