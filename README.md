@@ -1,6 +1,6 @@
 PROJECT TAPIRCHIP 
 ================================================================
-[![TAPIRCHIP Presentation Video](https://macondomomments.files.wordpress.com/2014/09/dsc00289.jpg)](https://www.youtube.com/watch?v=K2XoNLCk-Mk)
+[![TAPIRCHIP Presentation Video](https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)](https://www.youtube.com/watch?v=g-pvuCJCxQ8&t=17s)
 <p align="center">
   <img border ="1" src="docs/Logos/Tapir.bmp" width="250">
 </p>
@@ -12,7 +12,7 @@ PROJECT TAPIRCHIP
 <p align="center">
 
 
-[[Watch the video!] (https://img.youtube.com/vi/K2XoNLCk-Mk/maxresdefault.jpg)] (https://youtu.be/K2XoNLCk-Mk)
+[[Watch the video!] ()] (https://youtu.be/K2XoNLCk-Mk)
 </p>
 
 
